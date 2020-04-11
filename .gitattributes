@@ -3,3 +3,4 @@
 *.h linguist-detectable=false
 *.xml linguist-detectable=false
 *.d linguist-detectable=false
+*.dart_tool linguist-detectable=false
